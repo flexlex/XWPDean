@@ -1,6 +1,6 @@
 Killo_XWPAuth
 =====
-## Killo eXternale WordPress Authentication
+## Killo eXternal WordPress Authentication
 
 ### Introduction
 
